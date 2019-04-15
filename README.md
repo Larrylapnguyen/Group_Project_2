@@ -27,7 +27,7 @@ Your project must:
 * Must not expose sensitive API key information on the server, see [Protecting-API-Keys-In-Node.md](../../../10-nodejs/03-Supplemental/Protecting-API-Keys-In-Node.md)
 
 *Contributors<br>
-[https://github.com/bmdito] Blake<br>
-[https://github.com/JennMartinez] Jennifer<br>
-[https://github.com/jpatino927] Jonathan<br>
-[https://github.com/Larrylapnguyen] Lap Larry<br>
+https://github.com/bmdito (Blake)<br>
+https://github.com/JennMartinez Jennifer<br>
+https://github.com/jpatino927 Jonathan<br>
+https://github.com/Larrylapnguyen Lap Larry<br>
